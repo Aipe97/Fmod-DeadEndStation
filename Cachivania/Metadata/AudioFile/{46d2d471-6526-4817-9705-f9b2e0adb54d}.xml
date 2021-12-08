@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{46d2d471-6526-4817-9705-f9b2e0adb54d}">
+		<property name="assetPath">
+			<value>ambience/train.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>11.105215419501134</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{114f9c96-24fc-4020-ad33-2ba06bf011fd}</destination>
+		</relationship>
+	</object>
+</objects>

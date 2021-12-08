@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{d3c56b98-9b44-4b74-b3ee-c542721efa28}">
+		<property name="assetPath">
+			<value>Enemies/Bosses/Boss2/introBang.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>3.9265079365079365</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{114f9c96-24fc-4020-ad33-2ba06bf011fd}</destination>
+		</relationship>
+	</object>
+</objects>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{e11b68d9-ac15-4caf-b02c-183b324d2e86}">
+		<property name="assetPath">
+			<value>music/zone1/xx_DES_1st zone_LOOP inicio_80BPM.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>798</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{114f9c96-24fc-4020-ad33-2ba06bf011fd}</destination>
+		</relationship>
+	</object>
+</objects>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="Workspace" id="{a8e94657-17d2-4ae8-8b25-7c1079be2109}">
+		<property name="builtBanksOutputDirectory">
+			<value>../../Unity/ProyectoSextoSemestre/Assets/Plugins/FMOD/builtBanks</value>
+		</property>
+		<relationship name="masterEventFolder">
+			<destination>{225ddb8b-515d-4216-bb39-6c311e75a6b9}</destination>
+		</relationship>
+		<relationship name="masterTagFolder">
+			<destination>{0baa8410-39b2-40b9-9d66-4218793cfdee}</destination>
+		</relationship>
+		<relationship name="masterEffectPresetFolder">
+			<destination>{e18e085a-6362-48c4-9e75-28274a124ef6}</destination>
+		</relationship>
+		<relationship name="masterParameterPresetFolder">
+			<destination>{eff40a47-9096-4caf-84f0-cfa02039a614}</destination>
+		</relationship>
+		<relationship name="masterBankFolder">
+			<destination>{b764db95-5149-44d5-a9c8-4f0858ce7c67}</destination>
+		</relationship>
+		<relationship name="masterSandboxFolder">
+			<destination>{e65d5f95-e26b-44a4-87c9-f44ff4dbc9f4}</destination>
+		</relationship>
+		<relationship name="masterAssetFolder">
+			<destination>{114f9c96-24fc-4020-ad33-2ba06bf011fd}</destination>
+		</relationship>
+		<relationship name="mixer">
+			<destination>{4ec8b1d0-7090-44cf-a8fe-37d05deaa133}</destination>
+		</relationship>
+		<relationship name="profilerSessionFolder">
+			<destination>{cf500336-f54f-4462-8084-abe6c29e04fa}</destination>
+		</relationship>
+		<relationship name="platforms">
+			<destination>{edb5402b-8173-4fd3-90c7-d03838ea3757}</destination>
+		</relationship>
+	</object>
+</objects>
